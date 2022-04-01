@@ -1,14 +1,19 @@
 # MEMBUAT LIST, TABLE, DAN FORM
 
 Membuat dokumen HTML dengan nama file lab3_list.html
-![SS1](https://user-images.githubusercontent.com/101880835/161129948-e1459266-9824-40fd-855c-2f5463ba261f.png)
-![SS1](https://user-images.githubusercontent.com/101880835/161129967-b59ae3d4-f7d6-4488-943e-6253a391e081.png)
-![SS3](https://user-images.githubusercontent.com/101880835/161129982-ebedd989-5b7f-474f-980e-3bce913a0ea1.png)
-![SS3](https://user-images.githubusercontent.com/101880835/161130026-f1e738bf-152e-49ab-af5b-2825411ff25e.png)
-![SS3](https://user-images.githubusercontent.com/101880835/161130042-ecac1f40-e5d9-429a-a44b-2f85aebd5231.png)
-![SS3](https://user-images.githubusercontent.com/101880835/161130068-e240efd6-979a-41e7-b1e3-6886c97746b3.png)
+
+**Membuat Ordered List**
+![langkah1](https://user-images.githubusercontent.com/101880835/161261289-d8952a69-3921-47a9-83cd-c5cdf939942c.png)
+
+Akan menampilkan ordered List sebagai berikut :
 ![SS8](https://user-images.githubusercontent.com/101880835/161130084-2aeb61c8-8850-49b5-8ea6-297a74212102.png)
+
+**Membuat Unorderd List**
 ![LANGKAH2](https://user-images.githubusercontent.com/101880835/161130170-2e6b6964-8c15-422d-9980-2e6fc62c84fe.png)
+
+![SS1](https://user-images.githubusercontent.com/101880835/161129967-b59ae3d4-f7d6-4488-943e-6253a391e081.png)
+![SS3](https://user-images.githubusercontent.com/101880835/161130068-e240efd6-979a-41e7-b1e3-6886c97746b3.png)
+
 ![LANGKAH3](https://user-images.githubusercontent.com/101880835/161130187-665f04b0-a0e8-43ad-a1a9-d1c92e34d300.png)
 ![LANGAKH5](https://user-images.githubusercontent.com/101880835/161130199-34a80185-e960-42d5-ab85-4dbeafbe6dc8.png)
 ![LANGAKH5](https://user-images.githubusercontent.com/101880835/161130215-e7726c40-660d-4b41-95ef-f2336a4a685e.png)
