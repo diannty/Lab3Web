@@ -65,6 +65,8 @@ Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowsp
 
 Tampilannya menjadi =
 
+![SS3](https://user-images.githubusercontent.com/101880835/161272577-872c4d82-fbe2-4b4f-987b-ea2a5d8aa100.png)
+
 
 # 7. Membuat Form
 
