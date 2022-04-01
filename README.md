@@ -1,6 +1,9 @@
 # MEMBUAT LIST, TABLE, DAN FORM
+
 NAMA    = DIAN TRI HANDAYANI
+
 NIM     = 312010041
+
 KELAS   = TI 20 D1
 
 **#PRAKTIKUM 3** =
@@ -62,7 +65,6 @@ Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowsp
 
 Tampilannya menjadi =
 
-![SS7](https://user-images.githubusercontent.com/101880835/161269373-735c3ae7-16db-4424-8e65-9ea97055fdf8.png)
 
 # 7. Membuat Form
 
