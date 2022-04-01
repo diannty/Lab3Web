@@ -8,7 +8,6 @@ Membuat dokumen HTML dengan nama file lab3_list.html
 ![SS3](https://user-images.githubusercontent.com/101880835/161130042-ecac1f40-e5d9-429a-a44b-2f85aebd5231.png)
 ![SS3](https://user-images.githubusercontent.com/101880835/161130068-e240efd6-979a-41e7-b1e3-6886c97746b3.png)
 ![SS8](https://user-images.githubusercontent.com/101880835/161130084-2aeb61c8-8850-49b5-8ea6-297a74212102.png)
-![LANGKAH1](https://user-images.githubusercontent.com/101880835/161130148-8070bda7-48cc-4e58-ab24-c876f6fb67a8.png)
 ![LANGKAH2](https://user-images.githubusercontent.com/101880835/161130170-2e6b6964-8c15-422d-9980-2e6fc62c84fe.png)
 ![LANGKAH3](https://user-images.githubusercontent.com/101880835/161130187-665f04b0-a0e8-43ad-a1a9-d1c92e34d300.png)
 ![LANGAKH5](https://user-images.githubusercontent.com/101880835/161130199-34a80185-e960-42d5-ab85-4dbeafbe6dc8.png)
