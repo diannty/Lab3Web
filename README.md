@@ -20,6 +20,10 @@ Sehingga tampilannya menjadi :
 ![SS6](https://user-images.githubusercontent.com/101880835/161262365-d8543a52-fe51-4afe-b23b-056cb025bd99.png)
 
 # 4. Membuat Tabel
+![LANGAKH5](https://user-images.githubusercontent.com/101880835/161130215-e7726c40-660d-4b41-95ef-f2336a4a685e.png)
+
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+
 
 ![SS5](https://user-images.githubusercontent.com/101880835/161262392-4eca9d39-f04c-46fd-a2bb-ff99cce2126f.png)
 ![SS2](https://user-images.githubusercontent.com/101880835/161262503-55ab9816-3be6-40af-9b76-4e452329eac5.png)
@@ -28,7 +32,7 @@ Sehingga tampilannya menjadi :
 
 ![LANGKAH3](https://user-images.githubusercontent.com/101880835/161130187-665f04b0-a0e8-43ad-a1a9-d1c92e34d300.png)
 
-![LANGAKH5](https://user-images.githubusercontent.com/101880835/161130215-e7726c40-660d-4b41-95ef-f2336a4a685e.png)
+
 ![LANGKAH6](https://user-images.githubusercontent.com/101880835/161130243-58dd71ab-b733-4aa0-9a0a-4d2b218e3f7c.png)
 ![LANGKAH7](https://user-images.githubusercontent.com/101880835/161130303-69082e87-97c1-4fdb-aba2-94e61e93635b.png)
 ![LANGKAH7](https://user-images.githubusercontent.com/101880835/161130330-428ef5fe-5c93-4c56-8937-3e331a0aaa97.png)
