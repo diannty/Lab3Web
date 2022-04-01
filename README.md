@@ -24,6 +24,8 @@ Sehingga tampilannya menjadi :
 
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
 
+![LANGKAH5JUGA](https://user-images.githubusercontent.com/101880835/161267619-f99239cd-e4a0-43ec-bab5-bbf018b97979.png)
+
 
 ![SS5](https://user-images.githubusercontent.com/101880835/161262392-4eca9d39-f04c-46fd-a2bb-ff99cce2126f.png)
 ![SS2](https://user-images.githubusercontent.com/101880835/161262503-55ab9816-3be6-40af-9b76-4e452329eac5.png)
