@@ -1,7 +1,22 @@
 # MEMBUAT LIST, TABLE, DAN FORM
+NAMA    = DIAN TRI HANDAYANI
+NIM     = 312010041
+KELAS   = TI 20 D1
 
-Membuat dokumen HTML dengan nama file lab3_list.html
+**#PRAKTIKUM 3** =
 
+Instruksi Praktikum
+
+1.Persiapkan text editor misalnya VSCode.
+
+2.Buat folder baru dengan nama Lab3Web
+
+3.Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
+
+Lakukan validasi dokumen html dengan mengakses http://validator.w3.org 
+Langkah-langkah Praktikum Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+
+# Membuat dokumen HTML dengan nama file lab3_list.html
 # 1. Membuat Ordered List
 ![langkah1](https://user-images.githubusercontent.com/101880835/161261289-d8952a69-3921-47a9-83cd-c5cdf939942c.png)
 
@@ -30,6 +45,10 @@ Sehingga menjadi tabel sebagai berikut :
 ![ss4](https://user-images.githubusercontent.com/101880835/161268305-9e10a43a-ab77-46c8-b3b0-9e512e80c613.png)
 
 # 5. Mengatur Margin dan Padding
+
+Untuk mengatur margin dan padding pada cel data,
+tambahkan atribut cellpadding dan cellspacing pada tag table.
+
 ![LANGKAH6](https://user-images.githubusercontent.com/101880835/161130243-58dd71ab-b733-4aa0-9a0a-4d2b218e3f7c.png)
 
 Tabelnya berubah menjadi :
@@ -37,6 +56,7 @@ Tabelnya berubah menjadi :
 ![SS5](https://user-images.githubusercontent.com/101880835/161262392-4eca9d39-f04c-46fd-a2bb-ff99cce2126f.png)
 
 # 6. Menggabungkan Sel Data
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
 
 ![LANGKAH7](https://user-images.githubusercontent.com/101880835/161269313-cc3472f2-f431-4e5b-adac-07e127677822.png)
 
