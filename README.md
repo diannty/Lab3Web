@@ -26,8 +26,18 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 ![LANGKAH5JUGA](https://user-images.githubusercontent.com/101880835/161267619-f99239cd-e4a0-43ec-bab5-bbf018b97979.png)
 
+Sehingga menjadi tabel sebagai berikut :
+![ss4](https://user-images.githubusercontent.com/101880835/161268305-9e10a43a-ab77-46c8-b3b0-9e512e80c613.png)
+
+# 5. Mengatur Margin dan Padding
+![LANGKAH6](https://user-images.githubusercontent.com/101880835/161130243-58dd71ab-b733-4aa0-9a0a-4d2b218e3f7c.png)
+
+Tabelnya berubah menjadi :
 
 ![SS5](https://user-images.githubusercontent.com/101880835/161262392-4eca9d39-f04c-46fd-a2bb-ff99cce2126f.png)
+
+# 6. Menggabungkan Sel Data
+
 ![SS2](https://user-images.githubusercontent.com/101880835/161262503-55ab9816-3be6-40af-9b76-4e452329eac5.png)
 ![SS1](https://user-images.githubusercontent.com/101880835/161129967-b59ae3d4-f7d6-4488-943e-6253a391e081.png)
 ![SS3](https://user-images.githubusercontent.com/101880835/161130068-e240efd6-979a-41e7-b1e3-6886c97746b3.png)
@@ -35,7 +45,7 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 ![LANGKAH3](https://user-images.githubusercontent.com/101880835/161130187-665f04b0-a0e8-43ad-a1a9-d1c92e34d300.png)
 
 
-![LANGKAH6](https://user-images.githubusercontent.com/101880835/161130243-58dd71ab-b733-4aa0-9a0a-4d2b218e3f7c.png)
+
 ![LANGKAH7](https://user-images.githubusercontent.com/101880835/161130303-69082e87-97c1-4fdb-aba2-94e61e93635b.png)
 ![LANGKAH7](https://user-images.githubusercontent.com/101880835/161130330-428ef5fe-5c93-4c56-8937-3e331a0aaa97.png)
 ![LANGKAH 9](https://user-images.githubusercontent.com/101880835/161130348-a736af9b-d5c6-40ed-87a3-43e473b6e8e1.png)
