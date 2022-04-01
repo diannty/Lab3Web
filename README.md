@@ -38,17 +38,24 @@ Tabelnya berubah menjadi :
 
 # 6. Menggabungkan Sel Data
 
+![LANGKAH7](https://user-images.githubusercontent.com/101880835/161269313-cc3472f2-f431-4e5b-adac-07e127677822.png)
+
+Tampilannya menjadi =
+
+![SS7](https://user-images.githubusercontent.com/101880835/161269373-735c3ae7-16db-4424-8e65-9ea97055fdf8.png)
+
+# 7. Membuat Form
+
+![LANGKAH8](https://user-images.githubusercontent.com/101880835/161269416-84fa0863-fc37-4349-9755-0c36e04da97c.png)
+
+
 ![SS2](https://user-images.githubusercontent.com/101880835/161262503-55ab9816-3be6-40af-9b76-4e452329eac5.png)
-![SS1](https://user-images.githubusercontent.com/101880835/161129967-b59ae3d4-f7d6-4488-943e-6253a391e081.png)
-![SS3](https://user-images.githubusercontent.com/101880835/161130068-e240efd6-979a-41e7-b1e3-6886c97746b3.png)
 
-![LANGKAH3](https://user-images.githubusercontent.com/101880835/161130187-665f04b0-a0e8-43ad-a1a9-d1c92e34d300.png)
+# 8. Menabahkan Style pada Form
 
-
-
-![LANGKAH7](https://user-images.githubusercontent.com/101880835/161130303-69082e87-97c1-4fdb-aba2-94e61e93635b.png)
-![LANGKAH7](https://user-images.githubusercontent.com/101880835/161130330-428ef5fe-5c93-4c56-8937-3e331a0aaa97.png)
 ![LANGKAH 9](https://user-images.githubusercontent.com/101880835/161130348-a736af9b-d5c6-40ed-87a3-43e473b6e8e1.png)
+
+![SS1](https://user-images.githubusercontent.com/101880835/161129967-b59ae3d4-f7d6-4488-943e-6253a391e081.png)
 
 
 
